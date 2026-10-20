@@ -1,0 +1,5 @@
+node_modules/
+dist/
+node-v24.12.0-win-x64/
+*.log
+.DS_Store
